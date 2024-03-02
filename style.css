@@ -126,10 +126,15 @@
 
 h1 {
     font-family: 'Times New Roman', serif;
-    color: #a8323e;
+    color: #f02bbc;
     margin-top: 0; /* Adjusts spacing at the top, especially if header has its own padding */
     font-size: 32px;
     font-weight: bold;
     text-shadow: 2px 2px 4px #000000;
 }
 
+img {
+height: 80px;
+width: 50px;
+
+}
